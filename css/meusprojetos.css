@@ -115,3 +115,37 @@ body{
     font-weight: 400;
     font-size: 18px;
 }
+
+.terceiro-conteudo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+    margin-top: 48px;
+}
+
+.terceiro-conteudo-titulo{
+    border-top: 0.4px solid #fff2E7;
+    padding-top: 48px;
+    font-family: 'Righteous', cursive;
+    font-weight: 400;
+    font-size: 24px;
+    color: #fff2E7;
+    margin-bottom: 16px;
+}
+
+.conteudo-terceiro-escrito{
+    font-family: 'Sarala', sans-serif;
+    color: #fff2e7;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.Ladding-Page{
+    height: 430px;
+    transition: 0.3s ease-in-out;
+}
+
+.Ladding-Page:hover{
+    transform: scale(1.1);
+}
