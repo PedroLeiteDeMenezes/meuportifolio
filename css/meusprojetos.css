@@ -168,6 +168,13 @@ body{
     margin-bottom: 16px;
 }
 
+.conteudo-quarto-escrito{
+    font-family: 'Sarala', sans-serif;
+    color: #fff2e7;
+    font-weight: 400;
+    font-size: 18px;
+}
+
 .StarBucks-Home{
     height: 430px;
     transition: 0.3s ease-in-out;
